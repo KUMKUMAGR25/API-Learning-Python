@@ -2,7 +2,7 @@
 As a Beginner-friendly FastAPI learning repository.
 
 <br>
-# What is FastAPI?
+Que: What is FastAPI?
 <br>
 FastAPI is a Python framework used to build APIs.
 <br>
