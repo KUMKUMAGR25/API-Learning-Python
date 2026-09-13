@@ -10,16 +10,16 @@ FastAPI allows you to create a backend/API using Python that can communicate wit
 <br>
 Key Features
 <br>
-●Fast and high-performance.
+● Fast and high-performance.
 <br>
-●Easy to learn and use.
+● Easy to learn and use.
 <br>
-●Automatic interactive API documentation.
+● Automatic interactive API documentation.
 <br>
-●Built-in request and data validation.
+● Built-in request and data validation.
 <br>
-●Supports asynchronous programming.
+● Supports asynchronous programming.
 <br>
-●Uses Python type hints.
+● Uses Python type hints.
 <br>
-●Easy integration with databases and ML models.
+● Easy integration with databases and ML models.
