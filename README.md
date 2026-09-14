@@ -36,16 +36,16 @@ This makes it possible to connect ML models with websites, mobile applications, 
 <br>
 ##What I Learned
 <br>
-FastAPI basics.
+●FastAPI basics.
 <br>
-API endpoints and routes.
+●API endpoints and routes.
 <br>
-GET and POST requests.
+●GET and POST requests.
 <br>
-Request and response handling.
+●Request and response handling.
 <br>
-API documentation.
+●API documentation.
 <br>
-Pydantic and data validation.
+●Pydantic and data validation.
 <br>
-Connecting FastAPI with Python/ML projects.
+●Connecting FastAPI with Python/ML projects.
