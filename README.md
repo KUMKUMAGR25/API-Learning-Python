@@ -23,3 +23,29 @@ FastAPI allows you to create a backend/API using Python that can communicate wit
 ● Uses Python type hints.
 <br>
 ● Easy integration with databases and ML models.
+<br>
+##FastAPI in AI/ML
+
+<br>
+FastAPI can be used to create an API around a Python machine learning model.
+<br>
+Frontend → FastAPI → ML Model → Prediction → Frontend
+<br>
+This makes it possible to connect ML models with websites, mobile applications, and other software.
+<br>
+<br>
+##What I Learned
+<br>
+FastAPI basics.
+<br>
+API endpoints and routes.
+<br>
+GET and POST requests.
+<br>
+Request and response handling.
+<br>
+API documentation.
+<br>
+Pydantic and data validation.
+<br>
+Connecting FastAPI with Python/ML projects.
