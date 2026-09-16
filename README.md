@@ -49,3 +49,18 @@ Frontend → FastAPI → ML Model → Prediction → Frontend
 ●Pydantic and data validation.
 <br>
 ●Connecting FastAPI with Python/ML projects.
+<br>
+<br>
+Installation
+<br>
+pip install fastapi uvicorn
+<br>
+Basic FastAPI Application
+<br>
+from fastapi import FastAPI
+<br>
+app = FastAPI()
+
+@app.get("/")
+def home():
+    return {"message": "Hello, FastAPI!"}
