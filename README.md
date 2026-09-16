@@ -51,7 +51,7 @@ Frontend → FastAPI → ML Model → Prediction → Frontend
 ●Connecting FastAPI with Python/ML projects.
 <br>
 <br>
-Installation
+■ Installation
 <br>
 pip install fastapi uvicorn
 <br>
