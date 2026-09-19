@@ -23,7 +23,7 @@ FastAPI allows you to create a backend/API using Python that can communicate wit
 ● Uses Python type hints.
 <br>
 ● Easy integration with databases and ML models.
-
+<br>
 <br>
 #FastAPI in AI/ML
 <br>
