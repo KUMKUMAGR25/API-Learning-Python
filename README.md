@@ -61,6 +61,13 @@ from fastapi import FastAPI
 <br>
 app = FastAPI()
 
+<br>
+<br>
+Run the Application
+<br>
+uvicorn main:app --reload
+
+<br>
 @app.get("/")
 def home():
 <br>
