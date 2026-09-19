@@ -63,7 +63,7 @@ app = FastAPI()
 
 <br>
 <br>
-Run the Application
+■ Run the Application
 <br>
 uvicorn main:app --reload
 
