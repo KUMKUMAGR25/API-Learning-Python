@@ -72,3 +72,26 @@ uvicorn main:app --reload
 def home():
 <br>
    return {"message": "Hello, FastAPI!"}
+
+<br>
+#API Endpoints
+
+<br>
+Endpoints are URLs through which clients communicate with the application.
+<br>
+GET    /users
+<br>
+POST   /users
+<br>
+PUT    /users/{id}
+<br>
+DELETE /users/{id}
+<br>
+Path Parameters
+
+<br>
+Path parameters are values passed directly through the URL.
+<br>
+@app.get("/users/{user_id}")<br>
+def get_user(user_id: int):<br>
+    <br>return {"user_id": user_id}
