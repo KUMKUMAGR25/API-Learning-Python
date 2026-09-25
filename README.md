@@ -80,16 +80,16 @@ def home():
 <br>
 Endpoints are URLs through which clients communicate with the application.
 <br>
-GET    /users
+▪︎ GET    /users
 <br>
-POST   /users
+▪︎ POST   /users
 <br>
-PUT    /users/{id}
+▪︎ PUT    /users/{id}
 <br>
-DELETE /users/{id}
+▪︎ DELETE /users/{id}
 <br>
 <br>
-Path Parameters
+●Path Parameters
 
 <br>
 Path parameters are values passed directly through the URL.
@@ -98,4 +98,4 @@ Path parameters are values passed directly through the URL.
 <br>
 def get_user(user_id: int):
 <br>
-    <br>return {"user_id": user_id}
+   return {"user_id": user_id}
