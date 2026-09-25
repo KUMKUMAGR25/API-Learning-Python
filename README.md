@@ -74,6 +74,7 @@ def home():
    return {"message": "Hello, FastAPI!"}
 
 <br>
+<br>
 #API Endpoints
 
 <br>
@@ -87,11 +88,14 @@ PUT    /users/{id}
 <br>
 DELETE /users/{id}
 <br>
+<br>
 Path Parameters
 
 <br>
 Path parameters are values passed directly through the URL.
 <br>
-@app.get("/users/{user_id}")<br>
-def get_user(user_id: int):<br>
+@app.get("/users/{user_id}")
+<br>
+def get_user(user_id: int):
+<br>
     <br>return {"user_id": user_id}
