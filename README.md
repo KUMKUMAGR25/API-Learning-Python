@@ -100,8 +100,8 @@ def get_user(user_id: int):
 <br>
    return {"user_id": user_id}
 <br>
-●Query Parameters
 <br>
+●Query Parameters
 <br>
 Query parameters are used to send additional information through the URL.
 <br>
