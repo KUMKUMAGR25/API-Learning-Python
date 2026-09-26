@@ -99,3 +99,14 @@ Path parameters are values passed directly through the URL.
 def get_user(user_id: int):
 <br>
    return {"user_id": user_id}
+<br>
+●Query Parameters
+<br>
+<br>
+Query parameters are used to send additional information through the URL.
+<br>
+@app.get("/search")
+<br>
+def search(name: str):
+<br>
+    return {"name": name}
