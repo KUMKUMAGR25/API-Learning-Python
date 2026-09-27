@@ -110,3 +110,23 @@ Query parameters are used to send additional information through the URL.
 def search(name: str):
 <br>
     return {"name": name}
+<br>
+<br>
+Request Body
+<br>
+Request bodies are used to send structured data to the API.
+<br>
+from pydantic import BaseModel
+<br>
+class Student(BaseModel):
+<br>
+    name: str
+    <br>
+    age: int
+    <br>
+
+@app.post("/students")
+<br>
+def create_student(student: Student):
+<br>
+    return student
