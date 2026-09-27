@@ -112,9 +112,10 @@ def search(name: str):
     return {"name": name}
 <br>
 <br>
-Request Body
+● Request Body
 <br>
 Request bodies are used to send structured data to the API.
+<br>
 <br>
 from pydantic import BaseModel
 <br>
