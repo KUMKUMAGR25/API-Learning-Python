@@ -89,7 +89,7 @@ Endpoints are URLs through which clients communicate with the application.
 ▪︎ DELETE /users/{id}
 <br>
 <br>
-●Path Parameters
+● Path Parameters
 
 <br>
 Path parameters are values passed directly through the URL.
@@ -101,7 +101,7 @@ def get_user(user_id: int):
    return {"user_id": user_id}
 <br>
 <br>
-●Query Parameters
+● Query Parameters
 <br>
 Query parameters are used to send additional information through the URL.
 <br>
@@ -133,7 +133,7 @@ def create_student(student: Student):
     return student
 <br>
 <br>
-Pydantic
+● Pydantic
 <br>
 Pydantic is used for data validation and defining the structure of request and response data.
 <br>
