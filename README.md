@@ -131,3 +131,18 @@ class Student(BaseModel):
 def create_student(student: Student):
 <br>
     return student
+<br>
+<br>
+Pydantic
+<br>
+Pydantic is used for data validation and defining the structure of request and response data.
+<br>
+CRUD Operations
+<br>
+Create → POST
+<br>
+Read → GET
+<br>
+Update → PUT/PATCH
+<br>
+Delete → DELETE
