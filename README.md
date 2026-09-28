@@ -69,6 +69,7 @@ uvicorn main:app --reload
 
 <br>
 @app.get("/")
+<br>
 def home():
 <br>
    return {"message": "Hello, FastAPI!"}
