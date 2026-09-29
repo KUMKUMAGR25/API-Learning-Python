@@ -147,3 +147,16 @@ Read → GET
 Update → PUT/PATCH
 <br>
 Delete → DELETE
+<br>
+<br>
+Status Codes
+<br>
+200 → Successful request
+<br>
+201 → Resource created
+<br>
+400 → Bad request
+<br>
+404 → Resource not found
+<br>
+500 → Server error
