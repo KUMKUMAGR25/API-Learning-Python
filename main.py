@@ -23,7 +23,7 @@ def view():
 
     return data
 
-@app.get("patient/patient_id")
+@app.get("/patient/{patient_id}")
 def view_patient(patient_id: str = Path(..., description= 'ID of the patient in DB', example= 'P001')):
     #load all the patients
 
