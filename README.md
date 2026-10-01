@@ -162,7 +162,7 @@ Status Codes
 500 → Server error
 <br>
 <br>
-Error Handling
+●Error Handling
 <br>
 FastAPI provides HTTPException for handling API errors.
 <br>
