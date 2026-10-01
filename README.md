@@ -160,3 +160,18 @@ Status Codes
 404 → Resource not found
 <br>
 500 → Server error
+<br>
+<br>
+Error Handling
+<br>
+FastAPI provides HTTPException for handling API errors.
+<br>
+from fastapi import HTTPException
+<br>
+raise HTTPException(
+<br>
+    status_code=404,
+    <br>
+    detail="User not found"
+    <br>
+)
