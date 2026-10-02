@@ -175,3 +175,12 @@ raise HTTPException(
     detail="User not found"
     <br>
 )
+<br>
+<br>
+Automatic Documentation
+<br>
+FastAPI automatically provides interactive API documentation.
+<br>
+/docs
+<br>
+/redoc
