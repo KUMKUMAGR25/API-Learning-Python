@@ -177,7 +177,7 @@ raise HTTPException(
 )
 <br>
 <br>
-Automatic Documentation
+● Automatic Documentation
 <br>
 FastAPI automatically provides interactive API documentation.
 <br>
