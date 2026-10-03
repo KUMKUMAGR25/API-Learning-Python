@@ -186,7 +186,8 @@ FastAPI automatically provides interactive API documentation.
 /redoc
 <br>
 <br>
-FastAPI + Database
+● FastAPI + Database
 <br>
 
 FastAPI can be connected with databases such as SQLite, MySQL, and PostgreSQL to store and manage application data.
+<br>
