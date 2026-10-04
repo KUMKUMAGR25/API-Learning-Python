@@ -192,8 +192,9 @@ FastAPI automatically provides interactive API documentation.
 FastAPI can be connected with databases such as SQLite, MySQL, and PostgreSQL to store and manage application data.
 <br>
 <br>
-FastAPI + Machine Learning
+● FastAPI + Machine Learning
 <br>
 FastAPI can be used to deploy Python machine learning models as APIs.
 <br>
 Frontend → FastAPI → ML Model → Prediction
+<br>
