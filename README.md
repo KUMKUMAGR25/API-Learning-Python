@@ -198,3 +198,7 @@ FastAPI can be used to deploy Python machine learning models as APIs.
 <br>
 Frontend → FastAPI → ML Model → Prediction
 <br>
+<br>
+FastAPI + Frontend
+<br>
+FastAPI can act as the backend and communicate with frontend technologies such as HTML, CSS, JavaScript, and React.
