@@ -203,3 +203,13 @@ Frontend → FastAPI → ML Model → Prediction
 <br>
 FastAPI can act as the backend and communicate with frontend technologies such as HTML, CSS, JavaScript, and React.
 <br>
+<br>
+●Async Programming
+<br>
+FastAPI supports asynchronous programming using async and await.
+<br>
+@app.get("/data")
+<br>
+async def get_data():
+<br>
+    return {"message": "Async API"}
