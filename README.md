@@ -215,6 +215,8 @@ async def get_data():
     return {"message": "Async API"}
     <br>
     <br>
-●Learning Path
+● Learning Path
     <br>
 FastAPI Basics → Routes → GET/POST → Parameters → Request Body → Pydantic → Validation → CRUD → Database → Authentication → File Upload → ML API → Frontend Integration → Deployment
+<br>
+<br>
