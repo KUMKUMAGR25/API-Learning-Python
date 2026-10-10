@@ -220,3 +220,8 @@ async def get_data():
 FastAPI Basics → Routes → GET/POST → Parameters → Request Body → Pydantic → Validation → CRUD → Database → Authentication → File Upload → ML API → Frontend Integration → Deployment
 <br>
 <br>
+● Database Connection in FastAPI
+<br>
+A database stores application data permanently. FastAPI can connect to databases such as SQLite, MySQL, and PostgreSQL to store and retrieve 
+information.
+<br>
